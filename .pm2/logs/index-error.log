@@ -1,0 +1,20 @@
+TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Cipheriv.update (internal/crypto/cipher.js:157:11)
+    at Object.aesEncrypWithIV (/data/data/com.termux/files/home/temporalbot/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:111:31)
+    at WAConnection.prepareMessageMedia (/data/data/com.termux/files/home/temporalbot/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:120:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async WAConnection.prepareMessageContent (/data/data/com.termux/files/home/temporalbot/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:81:21)
+    at async WAConnection.prepareMessage (/data/data/com.termux/files/home/temporalbot/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:25)
+    at async WAConnection.sendMessage (/data/data/com.termux/files/home/temporalbot/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:27) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined
+    at Cipheriv.update (internal/crypto/cipher.js:157:11)
+    at Object.aesEncrypWithIV (/data/data/com.termux/files/home/temporalbot/node_modules/@adiwajshing/baileys/lib/WAConnection/Utils.js:111:31)
+    at WAConnection.prepareMessageMedia (/data/data/com.termux/files/home/temporalbot/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:120:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async WAConnection.prepareMessageContent (/data/data/com.termux/files/home/temporalbot/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:81:21)
+    at async WAConnection.prepareMessage (/data/data/com.termux/files/home/temporalbot/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:30:25)
+    at async WAConnection.sendMessage (/data/data/com.termux/files/home/temporalbot/node_modules/@adiwajshing/baileys/lib/WAConnection/6.MessagesSend.js:24:27) {
+  code: 'ERR_INVALID_ARG_TYPE'
+}

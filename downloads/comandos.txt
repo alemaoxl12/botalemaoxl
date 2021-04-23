@@ -1,0 +1,29 @@
+
+pkg update && pkg upgrade 
+
+pkg install git
+
+git clone https://github.com/temporalkkkjk/temporalbot.git
+
+cd temporalbot
+
+bash install.sh
+
+node index.js
+
+suprima o código qr 
+
+
+para o bot não cair use:
+
+npm i -g pm2
+
+pm2 start index.js
+
+pm2 monit 
+
+
+
+
+LEMBRANDO QUE VOCÊ PRECISA DE 2 CELULARES!
+

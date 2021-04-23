@@ -1,0 +1,29 @@
+ME CHAMA NO PRIVADO APENAS PARA RELATAR BUGS POR FAVOR!
+
+
+termux-setup-storage
+
+apt update && apt upgrade
+
+apt install git
+
+pkg install ffmpeg
+
+pkg install nodejs
+
+apt install wget
+
+cd /sdcard/download/zeuspre (você coloca o caminho da pasta aqui, mas se você extrair em downloads o caminho da pasta é esse)
+
+npm i -g pm2
+
+node index
+
+leia o códico QR e oronto
+
+
+Se você quiser dar dashboard para o bot não ficar caindo, usa esses comandos baixos no lugar do "node index"
+
+pm2 start index.js
+
+pm2 monit

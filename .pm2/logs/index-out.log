@@ -1,0 +1,23 @@
+INFO [2021-04-18 17:31:30.736 +0000] (14186): loading authentication credentials from ./session.json
+    class: "Baileys"
+INFO [2021-04-18 17:31:31.217 +0000] (14186): connected to WhatsApp Web server, authenticating via takeover
+    class: "Baileys"
+credentials updated!
+INFO [2021-04-18 17:31:31.756 +0000] (14186): validated connection successfully
+    class: "Baileys"
+INFO [2021-04-18 17:31:31.815 +0000] (14186): received 2 chats
+    class: "Baileys"
+INFO [2021-04-18 17:31:31.931 +0000] (14186): opened connection to WhatsApp Web
+    class: "Baileys"
+INFO [2021-04-18 17:31:32.735 +0000] (14186): received 4352 contacts
+    class: "Baileys"
+[1;31m~[1;37m> [[1;32mEXEC[1;37m] 19/04 00:32:22 menu from 558694519021 args : 0
+Error : Error: connect ECONNREFUSED 127.0.0.1:80
+[1;31m~[1;37m> [[1;31mRECV[1;37m] 19/04 00:32:40 Message from 558694519021 args : 0
+[ERROR] Comando desse gay não foi registrado 558694519021
+[1;31m~[1;37m> [[1;32mEXEC[1;37m] 19/04 00:32:53 daftar from 558694519021 args : 1
+[ERROR] Comando desse gay não foi registrado 558694519021
+[1;31m~[1;37m> [[1;32mEXEC[1;37m] 19/04 00:33:09 daftar from 558694519021 args : 2
+[ERROR] Comando desse gay não foi registrado 558694519021
+[1;31m~[1;37m> [[1;32mEXEC[1;37m] 19/04 00:33:45 menu from 558694519021 args : 0
+Error : Error: connect ECONNREFUSED 127.0.0.1:80
